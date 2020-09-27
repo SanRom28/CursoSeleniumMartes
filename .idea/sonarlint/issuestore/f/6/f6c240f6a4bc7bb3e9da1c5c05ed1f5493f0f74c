@@ -1,5 +1,9 @@
 
-7
-java:S1220""Move this file to a named package.8‚Ÿ—Œ«.
-]	java:S125"<This block of commented-out lines of code should be removed.(é±˛¡¯ˇˇˇˇ8‚Ÿ—Œ«.
-]	java:S125"<This block of commented-out lines of code should be removed.(Èÿª⁄˚ˇˇˇˇ8‚Ÿ—Œ«.
+^
+java:S1126"AReplace this if-then-else statement by a single return statement.(‡Â˘â8Õ£ç ».
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(∂◊ d8óÑØ ».
+X	java:S125"<This block of commented-out lines of code should be removed.(º˝ÿÏ8óÑØ ».
+Z
+java:S1197	"8Move the array designator from the variable to the type.(°˛œ÷¯ˇˇˇˇ8óÑØ ».
+J
+java:S1125"(Remove the literal "true" boolean value.(…πñ≈˘ˇˇˇˇ8óÑØ ».

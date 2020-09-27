@@ -1,15 +1,12 @@
 
-H
-java:S1191"5Use classes from the Java API instead of Sun classes.( Æ‘9
-l	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶×Êd
-b
-java:S1128"ORemove this unused import 'com.sun.org.apache.xpath.internal.objects.XBoolean'.( Æ‘9
-Q
-java:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(†ÞŒ÷úÿÿÿÿ
-<
-java:S1125"(Remove the literal "true" boolean value.(ûÚÆõ
-L	java:S106"9Replace this use of System.out or System.err by a logger.(…ùÂ
-K	java:S106"9Replace this use of System.out or System.err by a logger.(›Ï¶
-T
-java:S1126"AReplace this if-then-else statement by a single return statement.(÷åÙg
+>
+java:S1125"(Remove the literal "true" boolean value.(ûÚÆõ
+V
+java:S1126"AReplace this if-then-else statement by a single return statement.(÷åÙg
+d
+java:S1128"ORemove this unused import 'com.sun.org.apache.xpath.internal.objects.XBoolean'.( Æ‘9
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶×Êd
+S
+java:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ
+J
+java:S1191"5Use classes from the Java API instead of Sun classes.( Æ‘9

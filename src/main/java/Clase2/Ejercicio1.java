@@ -6,7 +6,7 @@ public class Ejercicio1 {
 
     //INICIO
     public static void main(String arg[]) {
-//MOSTRAR “Holamundo”;
+
         System.out.println("Hola Mundo");
         //FIN
     }

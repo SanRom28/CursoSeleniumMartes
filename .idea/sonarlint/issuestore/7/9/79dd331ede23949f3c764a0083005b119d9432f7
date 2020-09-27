@@ -1,14 +1,8 @@
 
-Z
-java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8é†äÎÇ.
-J
-java:S1125"(Remove the literal "true" boolean value.(èŠ—Îøÿÿÿÿ8Æ¼ÏÇ.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(…ĞæÑ8é§íÎÇ.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(’ÖÈ…8‰òëÎÇ.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŠÂ‡üÿÿÿÿ8—€èÎÇ.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ë×Ïíÿÿÿÿÿ8õ¼òÎÇ.
-T	java:S106"9Replace this use of System.out or System.err by a logger.(Õ”ş
-8˜ÄôÎÇ.
+H
+java:S1125"(Remove the literal "true" boolean value.(èŠ—Îøÿÿÿÿ8Æ¼ÏÇ.
+\
+java:S1126"AReplace this if-then-else statement by a single return statement.(Ïªò°8¸”ÏÇ.
+X
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8é†äÎÇ.
 o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»ô‰İ
-^
-java:S1126"AReplace this if-then-else statement by a single return statement.(Ïªò°8¸”ÏÇ.

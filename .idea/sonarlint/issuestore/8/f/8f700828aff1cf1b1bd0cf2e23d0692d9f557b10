@@ -1,10 +1,10 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚š¿û8ƒìÜÉÇ.
-w
-java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "num".(´œ¤+8ƒìÜÉÇ.
-Z	java:S106
-"9Replace this use of System.out or System.err by a logger.(Õ‡‚ïıÿÿÿÿ8ƒìÜÉÇ.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(«Â¿8ƒìÜÉÇ.
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÇŒöÕıÿÿÿÿ8ƒìÜÉÇ.
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒŸâÉıÿÿÿÿ8ƒìÜÉÇ.
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(Õ‡‚ïıÿÿÿÿ8ƒìÜÉÇ.
+w
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "num".(´œ¤+8ƒìÜÉÇ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(«Â¿8ƒìÜÉÇ.
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(–•î˜úÿÿÿÿ8ƒìÜÉÇ.
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚š¿û8ƒìÜÉÇ.
