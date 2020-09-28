@@ -1,9 +1,0 @@
-
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ãùØşÿÿÿÿ
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚š¿û
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(âÔî®ÿÿÿÿÿ8£¼¾ËÇ.
-r
-java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "area".(Š»ıç
-S
-java:S1197
-"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ

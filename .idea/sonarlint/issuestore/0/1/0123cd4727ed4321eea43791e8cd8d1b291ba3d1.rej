@@ -1,8 +1,0 @@
-diff a/.idea/sonarlint/issuestore/0/1/0123cd4727ed4321eea43791e8cd8d1b291ba3d1 b/.idea/sonarlint/issuestore/0/1/0123cd4727ed4321eea43791e8cd8d1b291ba3d1	(rejected hunks)
-@@ -0,0 +1,5 @@
-+
-+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(��ҁ�����
-+S
-+java:S1197"8Move the array designator from the variable to the type.(���������
-+S	java:S106"9Replace this use of System.out or System.err by a logger.(���������
-\ No newline at end of file

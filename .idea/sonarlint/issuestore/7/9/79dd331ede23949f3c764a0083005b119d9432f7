@@ -1,8 +1,0 @@
-
-H
-java:S1125"(Remove the literal "true" boolean value.(èŠ—Îøÿÿÿÿ8Æ¼ÏÇ.
-\
-java:S1126"AReplace this if-then-else statement by a single return statement.(Ïªò°8¸”ÏÇ.
-X
-java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8é†äÎÇ.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»ô‰İ

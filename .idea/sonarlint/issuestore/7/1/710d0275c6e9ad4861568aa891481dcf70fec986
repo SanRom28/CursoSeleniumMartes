@@ -1,14 +1,0 @@
-
-X	java:S1259"<This block of commented-out lines of code should be removed.(û×‚€8ú‰Ø‹Í.
-H
-java:S1068"+Remove this unused "unaEdad" private field.(±¨ªŞ8‡«ÓŠÍ.
-I
-java:S1068
-",Remove this unused "unNombre" private field.(ÕÚˆ’8ÎÉóíÊ.
-E
-java:S1125H"(Remove the literal "true" boolean value.(œ™ï¸8 †ŠŒÍ.
-^
-java:S1126>"AReplace this if-then-else statement by a single return statement.(ÀíÑı8×ô¯‹Í.
-P
-java:S1068".Remove this unused "unApellido" private field.(£Í´ãúÿÿÿÿ8À—’ŠÍ.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ò·Ã
