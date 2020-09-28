@@ -1,2 +1,0 @@
-# CursoSeleniumMartes
-Ejercicios del Curso
