@@ -95,3 +95,13 @@ h
 0src/main/java/Clase5_ClasesyObjetos/Persona.java,7\1\710d0275c6e9ad4861568aa891481dcf70fec986
 h
 8src/main/java/Clase5_ClasesyObjetos/GestionPersonas.java,2\b\2b56a301a969363e7496e43a7ebe474208aea334
+_
+/src/main/java/Clase5_ClasesyObjetos/Camion.java,4\9\49b76e265f382fc6eb2cdafa6b99423acd1fdf27
+d
+4src/main/java/Clase5_ClasesyObjetos/DatosCamion.java,b\b\bbe7168b4966713a8d59eb1598f731ee90caa01a
+h
+8src/main/java/Clase5_ClasesyObjetos/GestionProducto.java,6\c\6ceeac18b06fc198706018c1c92b574338be922b
+a
+1src/main/java/Clase5_ClasesyObjetos/Producto.java,9\7\97681b9f02961ccf0dbebf65951a9d39d187ecc7
+\
+,src/main/java/Clase8/EjerciosioExpecion.java,b\d\bdb4cfd5c2463b8fa188d913967f25e33c089f6e

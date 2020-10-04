@@ -1,0 +1,9 @@
+
+€
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "nombre".(Ùı±Êùÿÿÿÿ8÷ñéâÊ.
+‚
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "apellido".(³×Âúÿÿÿÿ8ßÅÍäÊ.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ûÕûúÿÿÿÿ8ùŒÔçÊ.
+y
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "edad".(²ñ‚8•ôÏäÊ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ò·Ã

@@ -55,7 +55,7 @@ public class Persona {
     }
 
    //public void mostrarDatosPersona() {
-           // System.out.println("Su nombre es " + this.nombre + " " + this.apellido + " y tiene " + this.edad + " anos ");
+           //System.out.println("Su nombre es " + this.nombre + " " + this.apellido + " y tiene " + this.edad + " anos ");
 
 
         private boolean esMayorDeEda() {
